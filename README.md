@@ -1,7 +1,7 @@
 # WELCOME TO CS151 OWLS
-This is hte GitHub page for CSCI 151 OWLS.
+This is the GitHub page for CSCI 151 OWLS.
 
-##Using the repository
+## Using the repository
 
 This repository contains all exercises done in each OWLS session, organized by week. It will also have PDFs of exercises and practice exams. You can email me (Rob) or Emily if you have any trouble getting the materials you need.
 
