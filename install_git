@@ -1,0 +1,10 @@
+MacOS
+If you dont have it already, just go to Terminal and type "git" and click enter.
+
+Windows
+
+Go to https://git-scm.com/download/win The download should start on its own. This isn't actually Git, its called Git for Windows. You can find out more GFW at gitforwindows.org. 
+
+Reach out to Emily or I if you have other issues.
+
+Source: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
